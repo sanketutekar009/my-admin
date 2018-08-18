@@ -1,0 +1,12 @@
+body {background:#fff;font:300 14px;color:#333;overflow-x:hidden;-ms-overflow-style:scrollbar}
+.row>div {margin-bottom:15px!important}
+.no_margin>div {margin-bottom:0!important}
+.no_padding {margin-right:0!important}
+.no_padding>div {padding-right:0!important}
+.wth25 {width:25%;}
+.centered {padding: 27px;background: #f6f6f7;position:fixed;top:40%;left:50%;transform:translate(-50%,-50%)}
+.btn-submit {border-radius:0;background:#F06D54;font-size:16px;text-transform:uppercase;color:#FFF;font-weight:500;padding:10px 0; margin-top: 20px;}
+.btn-submit:hover {color:#FFF}
+.error-template {text-align: center;margin-top: 10%;}
+.mT20 {margin: 20px 0px;}
+.table td:last-child{text-align: center !important;}
